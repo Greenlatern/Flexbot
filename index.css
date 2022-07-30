@@ -1,0 +1,23 @@
+body {
+  color:black
+}
+.flex-container {
+  display: flex;
+}
+.sidebar {
+  width: 300px;
+  padding-bottom: 80%;
+  margin: 8px;
+  border: 1px solid black;
+}
+.content {
+  width: 100%;
+  padding-bottom: 80%;
+  margin: 8px;
+  border: 1px solid black;
+}
+.header {
+  border: 1px solid black;
+  text-align: center;
+}
+
